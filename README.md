@@ -1,9 +1,14 @@
 Name: BHAVADHARANI K
+
 Company: CODTECH IT SOLUTIONS
+
 ID: CT08DS9338
+
 Domain: POWER BI
+
 Duration: October 17 to November 17
-Mentor: 
+
+Mentor: SANTHOSH
 
 Overview of the Project
 Objective:
