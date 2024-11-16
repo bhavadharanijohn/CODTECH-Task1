@@ -19,11 +19,6 @@ To create a data-driven visualization for tracking and analyzing the sales team'
 Provide insights into sales trends, sales targets, performance metrics, and comparisons across different time periods (monthly, quarterly, yearly).
 Enable decision-makers to easily monitor sales KPIs (Key Performance Indicators) and make data-backed decisions.
 
-Financial Analysis Dashboard:
-
-To provide a clear view of the organization’s financial health through key financial metrics (revenue, profits, etc.).
-Monitor financial KPIs like profit margins, cost breakdowns, and budget performance.
-Help stakeholders assess financial performance and identify areas for improvement or cost optimization.
 
 Key Activities:
 
